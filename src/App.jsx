@@ -61,7 +61,7 @@ const App = () => {
         {/* Input for Heading  */}
         <input
           type="text"
-          placeholder="Notes Header"
+          placeholder="Notes Heading"
           className="px-5 
                      py-2 
                      w-full 
