@@ -8,6 +8,8 @@ Users can create and delete notes with a simple and modern interface.
 
 https://note-app-5839.vercel.app/
 
+---
+
 ## ✨ Features
 
 - Add Notes
