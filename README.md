@@ -10,6 +10,8 @@ https://note-app-5839.vercel.app/
 
 ---
 
+## 📸 Preview
+
 ## ✨ Features
 
 - Add Notes
