@@ -12,6 +12,8 @@ https://note-app-5839.vercel.app/
 
 ## 📸 Preview
 
+[Watch NoteApp Demo]
+
 ## ✨ Features
 
 - Add Notes
